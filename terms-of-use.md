@@ -125,6 +125,6 @@ Appleその他の外部サービスに関する事項には、それぞれの契
 
 - 運営者：INOMATA FICTION
 - メールアドレス：cntct@inomatafiction.com
-- 本規約の掲載先：https://github.com/InomataFiction/timeisdiary-privacy-policy/blob/main/terms-of-use.md
+- 本規約の掲載先：https://github.com/InomataFiction/timeisdiary-legal/blob/main/terms-of-use.md
 
 ©️INOMATA FICTION2026-2027
