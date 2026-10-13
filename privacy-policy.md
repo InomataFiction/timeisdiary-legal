@@ -104,6 +104,6 @@ Keychainに保存した無料期間の記録は、アプリを削除しても残
 
 - 運営者：INOMATA FICTION
 - メールアドレス： cntct@inomatafiction.com
-- 本ポリシーの掲載先：https://github.com/InomataFiction/timeisdiary-privacy-policy/blob/main/privacy-policy.md
+- 本ポリシーの掲載先：https://github.com/InomataFiction/timeisdiary-legal/blob/main/privacy-policy.md
 
 ©️INOMATA FICTION2026-2027
